@@ -1,6 +1,6 @@
 {
   "name": "@mgcrea/hono-request-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": "Olivier Louvignes <olivier@mgcrea.io>",
   "repository": "github:mgcrea/hono-request-logger",
